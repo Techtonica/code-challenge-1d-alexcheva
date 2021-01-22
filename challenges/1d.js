@@ -13,7 +13,7 @@
 // * Hint: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 
 function isEqual(a,b){
-  return // your code here
+  return a === b;
 }
 
 module.exports = isEqual;
